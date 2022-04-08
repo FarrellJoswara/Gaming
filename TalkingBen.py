@@ -6,16 +6,16 @@ while text != "SHUT UP":
 
   if num == "1":
     print("Yes?")
-    text = input("Brian? ")
+    text = input(" ")
   elif num == "2":
     print("No.")
-    text = input("Brian? ")
+    text = input(" ")
   elif num == "3":
     print("ho ho ho!")
-    text = input("Brian? ")
+    text = input(" ")
   elif num == "4":
     print("auaueeuguh")
-    text = input("Brian? ")
+    text = input(" ")
 
 
 
