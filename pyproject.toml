@@ -8,6 +8,8 @@ authors = ["AidanYung <<>>"]
 python = "^3.8"
 PyQt5 = "^5.15.6"
 random2 = "^1.0.1"
+arcade = "^2.6.13"
+arcade-ui = "^0.0.2"
 
 [tool.poetry.dev-dependencies]
 
